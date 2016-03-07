@@ -1,2 +1,13 @@
 # mason-swarm-coordination
 Modified flocking algorithm for a swarm coordination task (Simulation in MASON)
+
+## Abstract.
+Recently, self-organized distributed computing has developed
+great appeal in the eld of controlling multi-agent systems. Simple in-
+teraction rules lead to the emergence of collective behavior and give
+access to a huge spectrum of tasks such a swarm can perform. This work
+presents a new approach to decentralized multi-agent coordination by
+using Reynold's 
+ocking heuristics and enhancing them with a velocity-
+based guidance rule derived from centroid tracking. The proposed algo-
+rithm was implement and simulated with the MASON framework.
